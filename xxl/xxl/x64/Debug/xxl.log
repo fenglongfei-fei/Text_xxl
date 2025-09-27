@@ -1,2 +1,3 @@
 ﻿  main.cpp
+E:\xxl\xxl\xxl\main.cpp(44,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
   xxl.vcxproj -> E:\xxl\xxl\x64\Debug\xxl.exe
